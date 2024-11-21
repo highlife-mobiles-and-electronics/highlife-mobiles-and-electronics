@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @highlife-mobiles-and-electronics
-- 👀 I’m interested in ...
-- 🌱 I’m c# Highlife Mobiles and Electronics Accessories
 
 Welcome to the official website repository for **Highlife Mobiles and Electronics Accessories**.
 
@@ -16,7 +14,7 @@ This website showcases our range of mobile phones and electronic accessories. Us
 To run this project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/highlife-website.git
+   git clone https://github.com/godie/highlife-website.git
 ### **2. Committing the README to GitHub**
 
 1. After saving `README.md`, open your terminal or command prompt.
